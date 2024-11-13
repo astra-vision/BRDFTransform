@@ -12,6 +12,8 @@
 </div>
 <br>
 
+[![arXiv](https://img.shields.io/badge/arXiv-_-darkgreen?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2411.08037)
+
 The code source will be published soon, stay tuned for more! [![arXiv](https://img.shields.io/badge/-⭐-black?style=flat-square)](https://github.com/astra-vision/BRDFTransform/stargazers)
 </div>
 
