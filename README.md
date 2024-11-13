@@ -22,7 +22,7 @@ The code source will be published soon, stay tuned for more! [![arXiv](https://i
 ```
 @inproceedings{lopes2024brdftransform,
     author = {Lopes, Ivan and Lalonde, Jean-François and de Charette, Raoul},
-    title = {Material Palette: Extraction of Materials from a Single Image},
+    title = {Material Transforms from Disentangled NeRF Representations},
     booktitle = {arXiv},
     year = {2024},
 }
